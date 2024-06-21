@@ -138,7 +138,7 @@ sequenceDiagram
     Note right of Client: Status Code: 200 - Ok
 ```
 
-#### Diagrama de exclusão de produto
+#### Diagrama de exclusão 
 
 ```mermaid
 sequenceDiagram
